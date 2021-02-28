@@ -1,5 +1,15 @@
 # skyblue
 
+The Foler Contains two files and One Folder called Modules
+
+The folder named Modules is a Terraform module 
+# Allows you to group resources together and reuse this group later, possibly many times. in shot create logical abstraction on the top of some resource set.
+
+# Main.tf is the file acts like an entry file it describes the AWS regions and the secret and access keys.
+
+# The ec2 file contains details about the EC2 instance we desire to develop.  
+
+
 
 Solution:
 
